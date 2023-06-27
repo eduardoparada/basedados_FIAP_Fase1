@@ -1,7 +1,7 @@
 # Basedados_FIAP_Fase1
 Bases de dados usadas para estudos iniciais em Data Analytics.
 
-**Fase 1 - Data analysis and exploration.**
+**Fase 1 - Data Analysis and Exploration**
 
 Temas abordados:
  * Análise exploratória de dados
